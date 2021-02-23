@@ -3,4 +3,8 @@
     <string name="DecriptionLogo">los vegas logo</string>
     <string name="dice">Dice</string>
     <string name="btn">ROLE</string>
+    <string name="computer">COMPUTER</string>
+    <string name="user">USER</string>
+    <string name="btn1">LOWER</string>
+    <string name="btn2">HIGHER</string>
 </resources>
